@@ -1,6 +1,6 @@
-@import 'static/css/profile.css';
-@import 'static/css/about-me.css';
-@import 'static/css/projects.css';
+@import '/static/css/profile.css';
+@import '/static/css/about-me.css';
+@import '/static/css/projects.css';
 
 body, html{
   font-family: 'Alata', sans-serif;
