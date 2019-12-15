@@ -1,0 +1,51 @@
+.about-me{
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+  color: #1C4A7B;
+  margin-bottom: 20px;
+  background-color: #ECF7FD;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: none;
+}
+
+.header{
+  font-family: 'Alata';
+  color: #1C4A7B;
+}
+
+.text{
+  width: 400px;
+  text-align: left;
+  vertical-align: top;
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 15px;
+  font-family: 'Verdana';
+}
+
+ul.education-list{
+  margin-top: 0px;
+  padding-inline-start: 20px;
+}
+
+.tech{
+  margin:auto;
+  margin-top: 20px;
+  width: 800px;
+  font-family: 'Alata';
+}
+
+ul.tech-list{
+  padding-inline-start: 130px;
+  width: 350px;
+  font-family: sans-serif;
+  text-align: left;
+  font-size: 15px;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  margin: auto;
+  margin-top: 10px;
+}

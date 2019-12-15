@@ -1,0 +1,41 @@
+@import '/css/profile.scss';
+@import '/css/about-me.scss';
+@import '/css/projects.scss';
+
+body, html{
+  font-family: 'Alata', sans-serif;
+  margin: 0px;
+}
+
+.navbar{
+  height: 75px;
+  background-color: #1C4A7B;
+  color: white;
+  display: none;
+}
+
+.navbar-name{
+  margin-right: 10px;
+}
+
+.navbar-items{
+  margin-left: 10%;
+  height: 75px;
+  line-height: 75px;
+}
+
+.links{
+  position: relative;
+  top: 7px;
+  margin-right: 5px;
+}
+
+.footer{
+  line-height: 75px;
+  text-align: center;
+  height: 75px;
+  background-color: #1C4A7B;
+  color: white;
+  margin-top: 50px;
+  display: none;
+}

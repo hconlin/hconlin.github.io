@@ -1,0 +1,62 @@
+.projects{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+  color: #1C4A7B;
+  display: none;
+}
+
+.project-wrapper{
+  vertical-align: top;
+  width: 500px;
+  padding: 20px;
+  display: inline-block;
+  text-align: center;
+  background-color: white;
+}
+
+.project-wrapper a{
+  color: #1C4A7B;
+}
+
+.project-image img{
+  margin: auto;
+  max-height: 150px;
+  max-width: 500px;
+  display: block;
+  text-align: center;
+}
+
+.details-btn{
+  margin-top: 10px;
+  color: grey;
+  padding: 10px;
+}
+
+.details-btn:hover{
+  background-color: #ECF7FD;
+  cursor: pointer;
+}
+
+.project-text{
+  text-align: left;
+  color: grey;
+  font-family: sans-serif;
+  font-size: 18px;
+  display: none;
+}
+
+.project-header{
+  font-family: 'Alata';
+  color: #1C4A7B;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.project-link{
+  margin-top: 20px;
+  font-weight: bolder;
+  font-size: 20px;
+}
