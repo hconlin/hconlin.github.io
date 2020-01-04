@@ -4,7 +4,6 @@
   font-size: 20px;
   color: #1C4A7B;
   margin-bottom: 20px;
-  background-color: #ECF7FD;
   padding-top: 30px;
   padding-bottom: 30px;
   display: none;
@@ -23,6 +22,7 @@
   margin-top: 10px;
   font-size: 15px;
   font-family: 'Verdana';
+  color: grey;
 }
 
 ul.education-list{
@@ -38,6 +38,7 @@ ul.education-list{
 }
 
 ul.tech-list{
+  color: grey;
   padding-inline-start: 130px;
   width: 350px;
   font-family: sans-serif;
