@@ -21,7 +21,7 @@
   display: inline-block;
   margin-top: 10px;
   font-size: 15px;
-  font-family: 'Verdana';
+  font-family: 'Didact Gothic';
   color: grey;
 }
 
@@ -41,7 +41,7 @@ ul.tech-list{
   color: grey;
   padding-inline-start: 130px;
   width: 350px;
-  font-family: sans-serif;
+  font-family: 'Didact Gothic';
   text-align: left;
   font-size: 15px;
   columns: 2;
