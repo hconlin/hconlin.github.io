@@ -10,7 +10,7 @@
 }
 
 .header{
-  font-family: 'Alata';
+  font-family: 'Raleway';
   color: #1C4A7B;
 }
 
@@ -20,7 +20,7 @@
   vertical-align: top;
   display: inline-block;
   margin-top: 10px;
-  font-size: 15px;
+  font-size: 20px;
   font-family: 'Didact Gothic';
   color: grey;
 }
@@ -34,16 +34,16 @@ ul.education-list{
   margin:auto;
   margin-top: 20px;
   width: 800px;
-  font-family: 'Alata';
+  font-family: 'Raleway';
 }
 
 ul.tech-list{
   color: grey;
   padding-inline-start: 130px;
   width: 350px;
-  font-family: 'Didact Gothic';
+  font-family: 'Didact Gothic', sans-serif;
   text-align: left;
-  font-size: 15px;
+  font-size: 20px;
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
