@@ -18,16 +18,26 @@
   width: 400px;
   text-align: left;
   vertical-align: top;
-  display: inline-block;
+  margin: auto;
   margin-top: 10px;
   font-size: 20px;
   font-family: 'Didact Gothic';
   color: grey;
 }
 
+.about-me-text{
+  width: 750px;
+}
+
+.title{
+  font-family: 'Raleway';
+  color: #1C4A7B;
+  text-align: center;
+}
+
 ul.education-list{
-  margin-top: 0px;
-  padding-inline-start: 20px;
+  margin-top: 0px !important;
+  padding-inline-start: 20px !important;
 }
 
 .tech{
