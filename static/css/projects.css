@@ -1,4 +1,4 @@
-.projects{
+.projects {
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: center;
@@ -8,7 +8,7 @@
   display: none;
 }
 
-.project-wrapper{
+.project-wrapper {
   vertical-align: top;
   width: 500px;
   padding: 20px;
@@ -18,11 +18,17 @@
   background-color: white;
 }
 
-.project-wrapper a{
+.project-wrapper a {
   color: #1C4A7B;
 }
 
-.project-image img{
+.project-image {
+  display: flex;
+  justify-items: center;
+  height: 150px;
+}
+
+.project-image img {
   margin: auto;
   max-height: 150px;
   max-width: 500px;
@@ -30,18 +36,18 @@
   text-align: center;
 }
 
-.details-btn{
+.details-btn {
   margin-top: 10px;
   color: grey;
   padding: 10px;
 }
 
-.details-btn:hover{
+.details-btn:hover {
   background-color: #ECF7FD;
   cursor: pointer;
 }
 
-.project-text{
+.project-text {
   text-align: left;
   color: grey;
   font-family: 'Didact Gothic';
@@ -49,7 +55,7 @@
   display: none;
 }
 
-.project-header{
+.project-header {
   font-family: 'Raleway';
   font-size: 24px;
   color: #1C4A7B;
@@ -57,7 +63,7 @@
   margin-top: 10px;
 }
 
-.project-link{
+.project-link {
   margin-top: 20px;
   font-weight: bolder;
   font-size: 22px;

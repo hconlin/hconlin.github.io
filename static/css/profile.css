@@ -1,4 +1,4 @@
-.profile{
+.profile {
   margin: auto;
   text-align: center;
   width: 100%;
@@ -10,7 +10,7 @@
   display: none;
 }
 
-.profile-picture{
+.profile-picture {
   margin: auto;
   height: 150px;
   width: 150px;
@@ -19,43 +19,43 @@
   margin-bottom: 10px;
 }
 
-.profile-picture img{
+.profile-picture img {
   width: 150px;
   height: 150px;
   border-radius: 75px;
 }
 
-.info{
+.info {
   position: relative;
   font-size: 30px;
   text-align: center;
 }
 
-.name{
+.name {
   margin-bottom: 15px;
 }
 
-.icons{
+.icons {
   max-height: 30px;
 }
 
-.about{
+.about {
   margin-bottom: 5px;
   font-family: 'Didact Gothic', sans-serif !important;
   font-size: 20px;
 }
 
-.links:hover{
+.links:hover {
   background-size: 100% 2px, 100% 1px !important;
   outline: none !important;
 }
 
-.navbar-link{
+.navbar-link {
   margin-left: 20px;
   margin-right: 20px;
 }
 
-.navbar-link:hover{
+.navbar-link:hover {
   color: black;
   cursor: pointer;
 }

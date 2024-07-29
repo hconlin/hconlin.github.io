@@ -1,4 +1,4 @@
-.about-me{
+.about-me {
   text-align: center;
   width: 100%;
   font-size: 20px;
@@ -9,12 +9,12 @@
   display: none;
 }
 
-.header{
+.header {
   font-family: 'Raleway';
   color: #1C4A7B;
 }
 
-.text{
+.text {
   width: 400px;
   text-align: left;
   vertical-align: top;
@@ -25,29 +25,30 @@
   color: grey;
 }
 
-.about-me-text{
-  width: 750px;
+.about-me-text {
+  width: 700px;
+  text-align: center;
 }
 
-.title{
+.title {
   font-family: 'Raleway';
   color: #1C4A7B;
   text-align: center;
 }
 
-ul.education-list{
+ul.education-list {
   margin-top: 0px !important;
   padding-inline-start: 20px !important;
 }
 
-.tech{
-  margin:auto;
+.tech {
+  margin: auto;
   margin-top: 20px;
   width: 800px;
   font-family: 'Raleway';
 }
 
-ul.tech-list{
+ul.tech-list {
   color: grey;
   padding-inline-start: 130px;
   width: 350px;
